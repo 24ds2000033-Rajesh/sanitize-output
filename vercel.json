@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/sanitize-output",
-      "destination": "/api/index.py"
-    }
-  ]
-}
