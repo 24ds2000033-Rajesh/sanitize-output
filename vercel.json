@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/sanitize-output",
-      "destination": "/api/index"
+      "destination": "/api/index.py"
     }
   ]
 }
